@@ -1,5 +1,4 @@
 LAURA RESOLUSI
 - Konsisten belajar bangkit
 - mengerjakan python satu minggu ini
-- membuat profile pada github
 - mengerjakan git & github pada dicodinh selama 2 hari
